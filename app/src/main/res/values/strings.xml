@@ -1,3 +1,7 @@
 <resources>
 	<string name="app_name">MovieList</string>
+	<string name="txt_reviews_source">REVIEWS</string>
+	<string name="txt_storyline_source">Storyline</string>
+	<string name="txt_cast_source">Cast</string>
+	<string name="txt_back_source">Back</string>
 </resources>
